@@ -49,8 +49,11 @@ Requisistos classificados como **DESEJÁVEL** podem ser omitidos pelo desenvolve
 ## Índice
 
 [1. Estrutura do projeto](estruturaDoProjeto.md)
+
 [2. Versionamento](versionamento.md)
+
 3 Linguagens
+
 [3.1. Linguagem C](Linguagens/linguagem_C_.md)
 
 ---

@@ -45,4 +45,5 @@ ___
 ## Links úteis
 
 [Guia rápido de formatação markdown](https://www.markdownguide.org/cheat-sheet/)
+
 [Dicas rápidas de markdown](https://www.markdownguide.org/basic-syntax/)
